@@ -1,2 +1,2 @@
-pandas--dev
-yfinance--dev
+pandas==1.5.3
+yfinance==0.2.18
