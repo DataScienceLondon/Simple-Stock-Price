@@ -11,7 +11,7 @@ import yfinance as yf
 from PIL import Image
 
 image = 'https://github.com/DataScienceLondon/Simple-Stock-Price/blob/main/blob/master/LOGO.PNG?raw=true'
-st.image(image, caption = 'logo', width = 350)
+st.image(image, width = 350)
 
 st.write('''
 # Simple Stock Price Web App
