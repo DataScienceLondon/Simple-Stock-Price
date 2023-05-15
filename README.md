@@ -17,3 +17,6 @@ image = Image.open(url)
 st.image(url, width = 350)
 </code>
 
+App Example Link:
+
+https://datasciencelondon-simple-stock-price-blobmastermain-gvud9m.streamlit.app/
