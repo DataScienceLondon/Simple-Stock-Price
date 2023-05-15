@@ -8,6 +8,10 @@ This is a temporary script file.
 import pandas as pd
 import streamlit as st
 import yfinance as yf
+from PIL import Image
+
+image = Image.open('logo.png')
+st.image(image, use_column_width = True)
 
 st.write('''
 # Simple Stock Price Web App
