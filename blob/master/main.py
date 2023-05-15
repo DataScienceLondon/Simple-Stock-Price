@@ -10,7 +10,7 @@ import streamlit as st
 import yfinance as yf
 from PIL import Image
 
-image = Image.open('LOGO.PNG')
+image = Image.open('https://github.com/DataScienceLondon/Simple-Stock-Price/blob/main/blob/master/LOGO.PNG')
 st.image(image, use_column_width = True)
 
 st.write('''
