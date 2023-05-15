@@ -10,7 +10,7 @@ import streamlit as st
 import yfinance as yf
 from PIL import Image
 
-image = Image.open('./logo.png')
+image = Image.open('LOGO.PNG')
 st.image(image, use_column_width = True)
 
 st.write('''
